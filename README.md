@@ -1,2 +1,2 @@
-# trex-game
-made p5editor
+# trex
+Chrome's trex game created using p5.play
